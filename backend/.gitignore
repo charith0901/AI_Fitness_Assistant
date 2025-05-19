@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+*.venv
+venv/
+ENV/
+env/
+.Python
+
+# FastAPI
+instance/
+*.db
+*.sqlite3
+
+# VSCode
+.vscode/
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Docker
+*.pid
+
+# Local env files
+.env.*
