@@ -2,8 +2,10 @@ from app.database import SessionLocal
 from app.models import FitnessData
 from app.schemas import FitnessInput
 from sqlalchemy.future import select
+from app.labels import plan_labels, goal_labels, activitie_labels
 
 async def save_user_data_to_db(data: FitnessInput,prediction:int):
+    prediction = int(prediction)
     async with SessionLocal() as session:
         record =FitnessData(
             weight=data.Weight,
@@ -19,5 +21,26 @@ async def save_user_data_to_db(data: FitnessInput,prediction:int):
 async def get_all_user_data():
     async with SessionLocal() as session:
         result = await session.execute(select(FitnessData))
-        records = result.scalars().all()
-        return records
+        records = result.scalars().all()      
+        return format_user_data(records)
+
+def format_user_data(records):
+        formatted_records = []
+        for record in records:
+            formatted_records.append({
+                "id": record.id,
+                "weight": record.weight,
+                "age": record.age,
+                "goal": get_goal_label(record.goal),
+                "activity_level": get_activity_label(record.activity_level),
+                "plan": plan_labels.get(record.plan, "Unknown"),
+                "created_at": record.created_at.strftime("%Y-%m-%d %H:%M:%S") if record.created_at else ""
+            })
+        return formatted_records
+
+
+def get_goal_label(goal_id):
+    return goal_labels.get(goal_id, f"Goal {goal_id}")
+
+def get_activity_label(activity_id):
+    return activitie_labels.get(activity_id, f"Level {activity_id}")

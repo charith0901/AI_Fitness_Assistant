@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import axios from 'axios';
-import { useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { FaRunning, FaWeight, FaDumbbell, FaUserAlt } from 'react-icons/fa';
 import { BiBody } from 'react-icons/bi';
@@ -79,6 +79,22 @@ function Home() {
           </motion.h1>
           <p className="text-gray-600 text-lg">Let's create your personalized fitness plan</p>
         </div>
+        <motion.div
+          initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.2 }}
+          className="bg-white p-8 rounded-xl shadow-lg mb-6"
+        >
+          <Link to="/recent" className="block text-center mb-4">
+          <motion.button 
+            whileHover={{ scale: 1.03 }}
+            whileTap={{ scale: 0.97 }}
+            className="w-full px-6 py-3 text-lg font-medium text-white bg-blue-600 hover:bg-blue-700 rounded-lg shadow-md focus:outline-none focus:ring-4 focus:ring-blue-300 transition-colors"
+          >
+            View Recent Inputs
+          </motion.button>
+          </Link>
+        </motion.div>
         
         <motion.div 
           initial={{ opacity: 0, y: 20 }}

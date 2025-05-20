@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
 import Result from './components/Result';
 import './App.css';
+import RecentInputs from './components/RecentInputs';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/result" element={<Result />} />
+              <Route path='/recent' element={<RecentInputs />} />
             </Routes>
           </div>
         </div>

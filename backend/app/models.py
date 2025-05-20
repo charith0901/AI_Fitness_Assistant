@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, Float
+from sqlalchemy import Column, Integer, Float, DateTime, func
 from app.database import Base
 
 class FitnessData(Base):
@@ -11,3 +11,4 @@ class FitnessData(Base):
     goal = Column(Integer, nullable=False)
     activity_level = Column(Integer, nullable=False)
     plan = Column(Integer, nullable=False)
+    created_at = Column(DateTime, default=func.now())
