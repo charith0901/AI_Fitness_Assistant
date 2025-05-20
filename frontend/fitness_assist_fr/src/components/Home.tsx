@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import axios from 'axios';
+import instance from '../axiosConfig';
 import { Link, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { FaRunning, FaWeight, FaDumbbell, FaUserAlt } from 'react-icons/fa';
@@ -25,7 +25,7 @@ function Home() {
     e.preventDefault();
     setIsSubmitting(true);
     try {
-      const response = await axios.post('http://localhost:8000/predict', {
+      const response = await instance.post('/predict', {
         Age: parseInt(formData.Age),
         Gender: parseInt(formData.Gender),
         Weight: parseFloat(formData.Weight),

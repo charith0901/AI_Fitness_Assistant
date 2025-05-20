@@ -3,6 +3,7 @@ import type { RecentType } from "../types/RecentType";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { FaArrowLeft } from "react-icons/fa";
+import instance from "../axiosConfig";
 
 export default function RecentInputs() {
     const [recentRecords, setRecentRecords] = useState<RecentType[]>([]);
@@ -14,12 +15,12 @@ export default function RecentInputs() {
             try {
                 setLoading(true);
                 setError(null);
-                const response = await fetch("http://localhost:8000/recent");
-                if (!response.ok) {
+                const response = await instance.get("/recent");
+                if (!response.data) {
                     throw new Error("Failed to fetch recent records");
                 }
-                const data = await response.json();
-                setRecentRecords(data);
+                
+                setRecentRecords(response.data);
             } catch (error) {
                 setError("Error fetching recent records: " + error);
             } finally {
