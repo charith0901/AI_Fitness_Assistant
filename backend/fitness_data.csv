@@ -1,0 +1,1001 @@
+Age,Gender,Weight,Goal,ActivityLevel,WorkoutType,Plan
+37,Female,68,Weight Loss,Low,Gym,General Fitness Plan
+19,Female,63,Maintain,Medium,Gym,General Fitness Plan
+40,Male,77,Maintain,High,Gym,General Fitness Plan
+36,Female,98,Weight Loss,High,Home,HIIT + Cardio
+25,Female,95,Weight Loss,High,Home,HIIT + Cardio
+35,Male,58,Weight Loss,Low,Home,Walking + Light Stretching
+35,Female,97,Weight Loss,Medium,Home,General Fitness Plan
+45,Female,69,Maintain,High,Gym,General Fitness Plan
+29,Female,59,Weight Loss,High,Gym,General Fitness Plan
+26,Male,65,Maintain,High,Gym,General Fitness Plan
+30,Male,54,Maintain,Low,Home,Light Cardio + Yoga
+21,Male,53,Maintain,Low,Home,Light Cardio + Yoga
+41,Female,47,Maintain,Medium,Gym,General Fitness Plan
+29,Male,62,Maintain,Medium,Home,Bodyweight Workout + Walking
+22,Male,45,Maintain,High,Home,General Fitness Plan
+40,Female,72,Weight Loss,Medium,Gym,Cardio + Full Body Training
+24,Female,51,Muscle Gain,Low,Gym,General Fitness Plan
+43,Male,88,Muscle Gain,Medium,Home,General Fitness Plan
+39,Female,83,Maintain,High,Home,General Fitness Plan
+27,Male,97,Weight Loss,Low,Home,Walking + Light Stretching
+18,Male,87,Muscle Gain,Low,Gym,General Fitness Plan
+42,Male,93,Weight Loss,Low,Home,Walking + Light Stretching
+45,Male,89,Weight Loss,Medium,Gym,Cardio + Full Body Training
+31,Female,85,Maintain,Low,Home,Light Cardio + Yoga
+23,Female,93,Maintain,Medium,Home,Bodyweight Workout + Walking
+36,Female,95,Maintain,High,Home,General Fitness Plan
+21,Female,61,Maintain,High,Home,General Fitness Plan
+18,Female,50,Weight Loss,Medium,Gym,Cardio + Full Body Training
+32,Male,84,Maintain,High,Gym,General Fitness Plan
+42,Male,55,Weight Loss,High,Home,HIIT + Cardio
+19,Male,93,Muscle Gain,High,Home,General Fitness Plan
+28,Male,66,Weight Loss,Medium,Home,General Fitness Plan
+26,Female,82,Weight Loss,Medium,Home,General Fitness Plan
+30,Male,64,Muscle Gain,Low,Gym,General Fitness Plan
+24,Male,57,Weight Loss,Low,Home,Walking + Light Stretching
+25,Female,47,Maintain,Medium,Home,Bodyweight Workout + Walking
+36,Male,46,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+25,Male,69,Muscle Gain,Low,Gym,General Fitness Plan
+31,Male,57,Weight Loss,Medium,Home,General Fitness Plan
+28,Female,99,Weight Loss,Low,Home,Walking + Light Stretching
+28,Female,88,Weight Loss,High,Gym,General Fitness Plan
+33,Female,53,Maintain,High,Home,General Fitness Plan
+39,Male,96,Maintain,High,Gym,General Fitness Plan
+39,Male,95,Muscle Gain,High,Gym,Strength + Glute Focus
+29,Female,47,Maintain,Medium,Gym,General Fitness Plan
+26,Male,87,Weight Loss,Low,Home,Walking + Light Stretching
+30,Female,52,Muscle Gain,High,Gym,Strength + Glute Focus
+29,Female,47,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+35,Female,80,Weight Loss,High,Home,HIIT + Cardio
+27,Female,92,Weight Loss,High,Home,HIIT + Cardio
+24,Male,85,Muscle Gain,Low,Home,General Fitness Plan
+25,Female,72,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+21,Male,56,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+42,Female,81,Maintain,High,Gym,General Fitness Plan
+30,Male,97,Weight Loss,Low,Gym,General Fitness Plan
+26,Male,79,Maintain,High,Home,General Fitness Plan
+40,Male,51,Weight Loss,Low,Gym,General Fitness Plan
+30,Female,45,Weight Loss,High,Gym,General Fitness Plan
+37,Female,85,Weight Loss,Medium,Home,General Fitness Plan
+40,Male,57,Maintain,Low,Gym,General Fitness Plan
+45,Male,97,Muscle Gain,High,Home,General Fitness Plan
+32,Male,81,Maintain,Low,Home,Light Cardio + Yoga
+21,Female,74,Maintain,High,Gym,General Fitness Plan
+25,Female,57,Maintain,Low,Home,Light Cardio + Yoga
+35,Male,95,Maintain,High,Home,General Fitness Plan
+31,Female,57,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+27,Female,91,Muscle Gain,Low,Gym,General Fitness Plan
+28,Female,91,Maintain,Medium,Home,Bodyweight Workout + Walking
+19,Male,75,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+27,Female,56,Maintain,Low,Home,Light Cardio + Yoga
+18,Female,99,Muscle Gain,High,Home,General Fitness Plan
+27,Female,48,Muscle Gain,Medium,Home,General Fitness Plan
+28,Male,70,Weight Loss,Low,Gym,General Fitness Plan
+19,Female,100,Weight Loss,Medium,Home,General Fitness Plan
+31,Male,73,Muscle Gain,Low,Gym,General Fitness Plan
+44,Female,70,Muscle Gain,Low,Home,General Fitness Plan
+30,Male,55,Muscle Gain,Low,Home,General Fitness Plan
+40,Female,56,Weight Loss,Medium,Gym,Cardio + Full Body Training
+29,Male,80,Maintain,High,Gym,General Fitness Plan
+20,Female,73,Weight Loss,Medium,Home,General Fitness Plan
+33,Male,79,Weight Loss,High,Gym,General Fitness Plan
+21,Female,59,Muscle Gain,High,Home,General Fitness Plan
+36,Male,69,Weight Loss,High,Home,HIIT + Cardio
+44,Female,57,Maintain,Low,Gym,General Fitness Plan
+41,Male,59,Muscle Gain,Medium,Home,General Fitness Plan
+38,Female,55,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+29,Female,54,Maintain,High,Gym,General Fitness Plan
+31,Female,68,Muscle Gain,High,Gym,Strength + Glute Focus
+25,Female,83,Weight Loss,Medium,Gym,Cardio + Full Body Training
+21,Male,49,Muscle Gain,Medium,Home,General Fitness Plan
+45,Female,82,Muscle Gain,High,Gym,Strength + Glute Focus
+19,Male,86,Maintain,Low,Gym,General Fitness Plan
+35,Male,90,Weight Loss,Low,Home,Walking + Light Stretching
+18,Male,89,Muscle Gain,High,Gym,Strength + Glute Focus
+24,Female,94,Muscle Gain,Low,Home,General Fitness Plan
+21,Male,91,Maintain,Medium,Gym,General Fitness Plan
+44,Female,67,Maintain,Low,Home,Light Cardio + Yoga
+21,Male,59,Maintain,Medium,Gym,General Fitness Plan
+41,Female,68,Weight Loss,Low,Gym,General Fitness Plan
+19,Female,86,Weight Loss,Medium,Home,General Fitness Plan
+41,Female,51,Maintain,High,Gym,General Fitness Plan
+32,Male,82,Maintain,Low,Gym,General Fitness Plan
+38,Male,84,Muscle Gain,High,Home,General Fitness Plan
+33,Female,52,Muscle Gain,High,Gym,Strength + Glute Focus
+44,Male,47,Weight Loss,Low,Gym,General Fitness Plan
+22,Female,63,Muscle Gain,Low,Home,General Fitness Plan
+25,Female,57,Maintain,Medium,Gym,General Fitness Plan
+34,Male,48,Maintain,High,Gym,General Fitness Plan
+33,Female,73,Maintain,Low,Gym,General Fitness Plan
+41,Male,46,Weight Loss,Medium,Home,General Fitness Plan
+25,Male,48,Weight Loss,Medium,Home,General Fitness Plan
+35,Male,70,Weight Loss,Low,Home,Walking + Light Stretching
+44,Female,55,Muscle Gain,Low,Home,General Fitness Plan
+20,Male,81,Maintain,Low,Home,Light Cardio + Yoga
+31,Female,91,Maintain,Low,Gym,General Fitness Plan
+18,Male,53,Maintain,High,Home,General Fitness Plan
+18,Female,67,Maintain,High,Home,General Fitness Plan
+45,Male,51,Maintain,High,Gym,General Fitness Plan
+24,Female,76,Muscle Gain,Medium,Home,General Fitness Plan
+29,Female,100,Weight Loss,High,Home,HIIT + Cardio
+36,Female,67,Weight Loss,High,Gym,General Fitness Plan
+40,Female,73,Maintain,High,Gym,General Fitness Plan
+34,Female,83,Weight Loss,Low,Home,Walking + Light Stretching
+42,Female,76,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+43,Female,96,Muscle Gain,Medium,Home,General Fitness Plan
+42,Male,95,Maintain,Low,Home,Light Cardio + Yoga
+35,Male,84,Weight Loss,High,Gym,General Fitness Plan
+33,Female,67,Weight Loss,High,Home,HIIT + Cardio
+38,Male,71,Maintain,Low,Home,Light Cardio + Yoga
+37,Male,63,Muscle Gain,Low,Home,General Fitness Plan
+37,Female,56,Weight Loss,Low,Home,Walking + Light Stretching
+37,Female,70,Maintain,Medium,Gym,General Fitness Plan
+38,Male,77,Maintain,Medium,Gym,General Fitness Plan
+42,Male,89,Maintain,Low,Gym,General Fitness Plan
+30,Female,53,Weight Loss,Medium,Home,General Fitness Plan
+21,Male,85,Maintain,High,Home,General Fitness Plan
+23,Male,59,Weight Loss,Low,Home,Walking + Light Stretching
+19,Male,78,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+39,Male,92,Weight Loss,High,Gym,General Fitness Plan
+44,Male,97,Maintain,Medium,Gym,General Fitness Plan
+34,Female,47,Maintain,Medium,Gym,General Fitness Plan
+33,Female,64,Maintain,Medium,Gym,General Fitness Plan
+22,Male,69,Weight Loss,Low,Gym,General Fitness Plan
+37,Female,87,Muscle Gain,Low,Gym,General Fitness Plan
+39,Female,95,Muscle Gain,High,Home,General Fitness Plan
+25,Male,98,Weight Loss,High,Gym,General Fitness Plan
+29,Male,93,Muscle Gain,Low,Gym,General Fitness Plan
+34,Male,78,Muscle Gain,Low,Gym,General Fitness Plan
+40,Male,86,Maintain,High,Gym,General Fitness Plan
+27,Male,52,Muscle Gain,Medium,Home,General Fitness Plan
+39,Male,100,Maintain,High,Home,General Fitness Plan
+31,Male,76,Maintain,Low,Home,Light Cardio + Yoga
+45,Female,51,Weight Loss,Medium,Home,General Fitness Plan
+32,Male,55,Maintain,High,Home,General Fitness Plan
+33,Female,64,Muscle Gain,Low,Gym,General Fitness Plan
+34,Male,74,Maintain,Medium,Gym,General Fitness Plan
+37,Female,77,Muscle Gain,High,Home,General Fitness Plan
+35,Male,47,Weight Loss,Medium,Gym,Cardio + Full Body Training
+31,Male,87,Maintain,High,Gym,General Fitness Plan
+26,Female,65,Maintain,Low,Gym,General Fitness Plan
+32,Female,52,Maintain,High,Gym,General Fitness Plan
+33,Male,87,Maintain,Medium,Home,Bodyweight Workout + Walking
+35,Male,61,Weight Loss,Low,Gym,General Fitness Plan
+31,Male,60,Maintain,High,Home,General Fitness Plan
+23,Female,77,Muscle Gain,High,Home,General Fitness Plan
+29,Male,77,Weight Loss,Low,Gym,General Fitness Plan
+28,Female,66,Maintain,Low,Gym,General Fitness Plan
+39,Male,58,Weight Loss,High,Home,HIIT + Cardio
+19,Female,67,Weight Loss,Low,Home,Walking + Light Stretching
+40,Male,53,Muscle Gain,High,Home,General Fitness Plan
+35,Male,72,Maintain,High,Gym,General Fitness Plan
+31,Female,68,Maintain,Medium,Home,Bodyweight Workout + Walking
+39,Male,82,Muscle Gain,Low,Home,General Fitness Plan
+37,Female,45,Weight Loss,Medium,Gym,Cardio + Full Body Training
+35,Male,54,Muscle Gain,Low,Home,General Fitness Plan
+44,Male,77,Weight Loss,Low,Home,Walking + Light Stretching
+43,Male,51,Weight Loss,Medium,Home,General Fitness Plan
+26,Female,81,Muscle Gain,High,Gym,Strength + Glute Focus
+21,Male,51,Maintain,Medium,Gym,General Fitness Plan
+41,Female,81,Muscle Gain,High,Home,General Fitness Plan
+25,Female,95,Maintain,Medium,Gym,General Fitness Plan
+27,Male,61,Muscle Gain,Medium,Home,General Fitness Plan
+19,Female,52,Maintain,High,Home,General Fitness Plan
+27,Male,64,Weight Loss,Low,Gym,General Fitness Plan
+36,Male,90,Maintain,High,Home,General Fitness Plan
+39,Female,84,Maintain,High,Home,General Fitness Plan
+18,Male,49,Maintain,High,Home,General Fitness Plan
+28,Female,99,Weight Loss,High,Home,HIIT + Cardio
+31,Male,46,Maintain,Low,Home,Light Cardio + Yoga
+23,Female,81,Maintain,Low,Gym,General Fitness Plan
+43,Male,52,Maintain,Medium,Gym,General Fitness Plan
+39,Male,70,Muscle Gain,Low,Home,General Fitness Plan
+32,Female,77,Maintain,Low,Gym,General Fitness Plan
+27,Male,85,Maintain,Medium,Home,Bodyweight Workout + Walking
+24,Male,63,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+26,Male,94,Maintain,Medium,Gym,General Fitness Plan
+44,Female,54,Weight Loss,Low,Home,Walking + Light Stretching
+28,Female,73,Muscle Gain,High,Gym,Strength + Glute Focus
+34,Male,95,Weight Loss,High,Gym,General Fitness Plan
+29,Male,55,Weight Loss,Low,Home,Walking + Light Stretching
+40,Male,63,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+28,Male,55,Maintain,High,Home,General Fitness Plan
+32,Male,46,Maintain,Medium,Home,Bodyweight Workout + Walking
+25,Female,52,Maintain,Medium,Gym,General Fitness Plan
+34,Female,96,Weight Loss,Low,Home,Walking + Light Stretching
+42,Male,52,Maintain,Low,Gym,General Fitness Plan
+22,Female,75,Muscle Gain,Low,Home,General Fitness Plan
+31,Female,60,Muscle Gain,Medium,Home,General Fitness Plan
+22,Male,81,Muscle Gain,Low,Home,General Fitness Plan
+32,Female,80,Weight Loss,High,Home,HIIT + Cardio
+32,Female,81,Maintain,High,Gym,General Fitness Plan
+31,Male,55,Maintain,Low,Home,Light Cardio + Yoga
+31,Male,67,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+19,Male,76,Maintain,High,Home,General Fitness Plan
+29,Male,87,Muscle Gain,High,Gym,Strength + Glute Focus
+19,Female,73,Maintain,High,Gym,General Fitness Plan
+28,Female,97,Weight Loss,High,Home,HIIT + Cardio
+31,Male,74,Muscle Gain,High,Home,General Fitness Plan
+30,Female,59,Maintain,High,Home,General Fitness Plan
+23,Male,87,Muscle Gain,Low,Home,General Fitness Plan
+18,Female,82,Muscle Gain,Medium,Home,General Fitness Plan
+41,Male,60,Weight Loss,Low,Home,Walking + Light Stretching
+25,Female,64,Weight Loss,High,Gym,General Fitness Plan
+44,Female,77,Muscle Gain,High,Home,General Fitness Plan
+43,Female,54,Weight Loss,Low,Gym,General Fitness Plan
+40,Female,94,Weight Loss,Medium,Gym,Cardio + Full Body Training
+25,Female,46,Muscle Gain,High,Gym,Strength + Glute Focus
+35,Female,60,Muscle Gain,Medium,Home,General Fitness Plan
+18,Female,52,Weight Loss,High,Home,HIIT + Cardio
+22,Female,90,Muscle Gain,High,Gym,Strength + Glute Focus
+23,Male,50,Muscle Gain,Low,Home,General Fitness Plan
+34,Female,68,Maintain,High,Home,General Fitness Plan
+41,Male,77,Maintain,Medium,Gym,General Fitness Plan
+31,Female,86,Weight Loss,High,Home,HIIT + Cardio
+21,Female,68,Muscle Gain,Medium,Home,General Fitness Plan
+22,Female,95,Weight Loss,Low,Gym,General Fitness Plan
+30,Male,92,Weight Loss,Medium,Home,General Fitness Plan
+33,Female,82,Weight Loss,High,Gym,General Fitness Plan
+20,Female,65,Muscle Gain,High,Gym,Strength + Glute Focus
+27,Male,79,Weight Loss,High,Gym,General Fitness Plan
+25,Male,82,Weight Loss,High,Home,HIIT + Cardio
+21,Female,67,Maintain,Medium,Home,Bodyweight Workout + Walking
+40,Male,51,Maintain,Medium,Gym,General Fitness Plan
+22,Male,64,Weight Loss,Medium,Gym,Cardio + Full Body Training
+40,Male,100,Weight Loss,Low,Home,Walking + Light Stretching
+23,Female,56,Maintain,High,Gym,General Fitness Plan
+28,Male,65,Maintain,High,Gym,General Fitness Plan
+36,Female,72,Muscle Gain,Low,Gym,General Fitness Plan
+42,Male,81,Weight Loss,Low,Home,Walking + Light Stretching
+43,Female,74,Weight Loss,Low,Home,Walking + Light Stretching
+23,Male,88,Maintain,High,Gym,General Fitness Plan
+39,Female,92,Weight Loss,Low,Gym,General Fitness Plan
+29,Female,81,Weight Loss,High,Home,HIIT + Cardio
+27,Female,73,Maintain,High,Home,General Fitness Plan
+23,Male,74,Maintain,Low,Gym,General Fitness Plan
+18,Female,56,Maintain,Medium,Home,Bodyweight Workout + Walking
+45,Female,45,Muscle Gain,Low,Gym,General Fitness Plan
+23,Male,74,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+45,Female,79,Maintain,High,Home,General Fitness Plan
+34,Male,61,Muscle Gain,Low,Gym,General Fitness Plan
+18,Female,58,Maintain,Medium,Gym,General Fitness Plan
+41,Female,65,Weight Loss,High,Home,HIIT + Cardio
+27,Male,94,Weight Loss,Low,Home,Walking + Light Stretching
+41,Male,77,Maintain,High,Home,General Fitness Plan
+31,Male,99,Maintain,Low,Gym,General Fitness Plan
+25,Female,81,Maintain,High,Home,General Fitness Plan
+37,Male,88,Maintain,Low,Home,Light Cardio + Yoga
+30,Female,87,Muscle Gain,High,Home,General Fitness Plan
+29,Male,79,Weight Loss,High,Home,HIIT + Cardio
+20,Female,57,Maintain,Medium,Gym,General Fitness Plan
+23,Male,66,Muscle Gain,High,Gym,Strength + Glute Focus
+24,Male,51,Muscle Gain,Low,Gym,General Fitness Plan
+27,Female,48,Weight Loss,Low,Gym,General Fitness Plan
+22,Female,71,Maintain,High,Home,General Fitness Plan
+45,Male,92,Maintain,High,Home,General Fitness Plan
+20,Female,65,Weight Loss,Low,Home,Walking + Light Stretching
+28,Female,90,Maintain,Medium,Home,Bodyweight Workout + Walking
+42,Female,78,Maintain,Low,Gym,General Fitness Plan
+36,Male,85,Maintain,Low,Home,Light Cardio + Yoga
+32,Female,52,Maintain,High,Home,General Fitness Plan
+18,Male,48,Weight Loss,Low,Gym,General Fitness Plan
+31,Male,59,Muscle Gain,Low,Gym,General Fitness Plan
+19,Female,97,Maintain,High,Gym,General Fitness Plan
+26,Female,46,Maintain,Medium,Gym,General Fitness Plan
+23,Female,60,Weight Loss,High,Home,HIIT + Cardio
+39,Female,60,Maintain,Low,Gym,General Fitness Plan
+30,Male,90,Weight Loss,High,Gym,General Fitness Plan
+19,Male,91,Weight Loss,Low,Gym,General Fitness Plan
+28,Male,82,Muscle Gain,Low,Home,General Fitness Plan
+27,Male,79,Weight Loss,Medium,Gym,Cardio + Full Body Training
+19,Female,51,Weight Loss,Low,Home,Walking + Light Stretching
+22,Male,79,Weight Loss,Low,Home,Walking + Light Stretching
+31,Male,97,Maintain,High,Gym,General Fitness Plan
+38,Male,86,Maintain,Low,Home,Light Cardio + Yoga
+45,Male,89,Weight Loss,Medium,Gym,Cardio + Full Body Training
+29,Male,90,Muscle Gain,Low,Gym,General Fitness Plan
+39,Female,94,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+25,Female,97,Muscle Gain,High,Gym,Strength + Glute Focus
+27,Female,86,Muscle Gain,High,Gym,Strength + Glute Focus
+31,Male,64,Muscle Gain,Low,Home,General Fitness Plan
+21,Male,64,Muscle Gain,Low,Home,General Fitness Plan
+19,Male,95,Weight Loss,Low,Home,Walking + Light Stretching
+32,Female,60,Weight Loss,Medium,Gym,Cardio + Full Body Training
+26,Male,78,Weight Loss,Medium,Home,General Fitness Plan
+29,Male,52,Muscle Gain,High,Gym,Strength + Glute Focus
+31,Male,95,Muscle Gain,Medium,Home,General Fitness Plan
+33,Male,66,Maintain,Low,Gym,General Fitness Plan
+36,Female,82,Weight Loss,High,Gym,General Fitness Plan
+20,Male,100,Muscle Gain,Low,Gym,General Fitness Plan
+34,Female,70,Maintain,Low,Gym,General Fitness Plan
+28,Male,73,Muscle Gain,High,Home,General Fitness Plan
+38,Male,73,Weight Loss,High,Home,HIIT + Cardio
+31,Male,86,Weight Loss,Medium,Home,General Fitness Plan
+22,Male,90,Weight Loss,Medium,Gym,Cardio + Full Body Training
+40,Female,75,Maintain,High,Home,General Fitness Plan
+32,Female,59,Muscle Gain,Medium,Home,General Fitness Plan
+39,Female,100,Maintain,High,Home,General Fitness Plan
+38,Male,51,Weight Loss,Medium,Home,General Fitness Plan
+35,Female,91,Muscle Gain,High,Gym,Strength + Glute Focus
+30,Female,51,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+21,Male,72,Muscle Gain,Medium,Home,General Fitness Plan
+18,Female,87,Maintain,Low,Gym,General Fitness Plan
+31,Male,83,Muscle Gain,Low,Home,General Fitness Plan
+40,Male,83,Muscle Gain,Low,Gym,General Fitness Plan
+18,Female,97,Muscle Gain,High,Gym,Strength + Glute Focus
+30,Male,45,Muscle Gain,Medium,Home,General Fitness Plan
+36,Male,58,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+30,Female,66,Weight Loss,Low,Home,Walking + Light Stretching
+34,Male,89,Muscle Gain,Medium,Home,General Fitness Plan
+22,Female,86,Weight Loss,Low,Gym,General Fitness Plan
+27,Female,58,Maintain,Medium,Home,Bodyweight Workout + Walking
+18,Female,47,Muscle Gain,Medium,Home,General Fitness Plan
+35,Female,69,Muscle Gain,High,Home,General Fitness Plan
+24,Male,55,Muscle Gain,High,Gym,Strength + Glute Focus
+24,Male,86,Muscle Gain,High,Gym,Strength + Glute Focus
+40,Female,62,Muscle Gain,Low,Gym,General Fitness Plan
+44,Male,99,Maintain,Low,Gym,General Fitness Plan
+37,Male,75,Muscle Gain,Medium,Home,General Fitness Plan
+19,Male,79,Muscle Gain,Low,Gym,General Fitness Plan
+43,Male,66,Weight Loss,High,Gym,General Fitness Plan
+19,Male,56,Weight Loss,Low,Gym,General Fitness Plan
+42,Male,77,Maintain,Low,Home,Light Cardio + Yoga
+18,Male,63,Muscle Gain,High,Home,General Fitness Plan
+30,Male,97,Weight Loss,Low,Gym,General Fitness Plan
+38,Male,57,Maintain,Low,Home,Light Cardio + Yoga
+38,Male,74,Maintain,Low,Gym,General Fitness Plan
+30,Male,93,Muscle Gain,Low,Home,General Fitness Plan
+18,Female,65,Weight Loss,High,Gym,General Fitness Plan
+35,Male,91,Weight Loss,Low,Home,Walking + Light Stretching
+23,Female,86,Weight Loss,Medium,Gym,Cardio + Full Body Training
+28,Female,72,Muscle Gain,High,Gym,Strength + Glute Focus
+30,Male,60,Weight Loss,High,Gym,General Fitness Plan
+28,Male,78,Muscle Gain,Medium,Home,General Fitness Plan
+24,Female,88,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+20,Female,64,Weight Loss,Medium,Gym,Cardio + Full Body Training
+33,Female,84,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+33,Male,95,Maintain,Medium,Home,Bodyweight Workout + Walking
+24,Female,89,Muscle Gain,High,Gym,Strength + Glute Focus
+23,Male,84,Maintain,High,Home,General Fitness Plan
+32,Male,48,Muscle Gain,Low,Gym,General Fitness Plan
+39,Male,49,Maintain,Medium,Home,Bodyweight Workout + Walking
+23,Male,49,Muscle Gain,Medium,Home,General Fitness Plan
+43,Female,78,Weight Loss,Medium,Home,General Fitness Plan
+25,Male,53,Muscle Gain,Medium,Home,General Fitness Plan
+32,Male,62,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+45,Male,73,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+34,Female,50,Muscle Gain,Low,Home,General Fitness Plan
+45,Female,94,Weight Loss,High,Gym,General Fitness Plan
+21,Female,76,Weight Loss,Low,Gym,General Fitness Plan
+34,Male,64,Maintain,Low,Gym,General Fitness Plan
+44,Female,77,Muscle Gain,Low,Home,General Fitness Plan
+43,Male,82,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+19,Female,82,Muscle Gain,High,Home,General Fitness Plan
+45,Female,71,Maintain,Medium,Gym,General Fitness Plan
+37,Female,93,Weight Loss,Medium,Home,General Fitness Plan
+30,Male,94,Muscle Gain,High,Gym,Strength + Glute Focus
+38,Female,49,Maintain,Medium,Gym,General Fitness Plan
+27,Female,84,Muscle Gain,Medium,Home,General Fitness Plan
+45,Female,54,Weight Loss,High,Home,HIIT + Cardio
+34,Female,54,Weight Loss,Medium,Gym,Cardio + Full Body Training
+28,Female,86,Maintain,Low,Home,Light Cardio + Yoga
+27,Male,63,Maintain,Medium,Home,Bodyweight Workout + Walking
+35,Male,94,Muscle Gain,Low,Home,General Fitness Plan
+25,Female,99,Maintain,High,Gym,General Fitness Plan
+41,Male,75,Muscle Gain,High,Home,General Fitness Plan
+41,Male,48,Maintain,Medium,Gym,General Fitness Plan
+33,Female,54,Maintain,Low,Home,Light Cardio + Yoga
+18,Female,80,Maintain,Medium,Home,Bodyweight Workout + Walking
+43,Female,96,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+29,Male,88,Weight Loss,Medium,Home,General Fitness Plan
+27,Female,60,Maintain,Low,Home,Light Cardio + Yoga
+21,Female,95,Weight Loss,High,Home,HIIT + Cardio
+33,Female,57,Maintain,Low,Gym,General Fitness Plan
+23,Female,89,Weight Loss,Medium,Gym,Cardio + Full Body Training
+39,Male,50,Muscle Gain,High,Home,General Fitness Plan
+22,Male,93,Weight Loss,Medium,Home,General Fitness Plan
+38,Female,82,Weight Loss,High,Home,HIIT + Cardio
+37,Male,91,Weight Loss,High,Home,HIIT + Cardio
+29,Female,72,Weight Loss,Low,Gym,General Fitness Plan
+40,Female,65,Weight Loss,High,Home,HIIT + Cardio
+21,Female,71,Weight Loss,Low,Gym,General Fitness Plan
+41,Female,47,Weight Loss,High,Home,HIIT + Cardio
+45,Male,99,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+45,Male,72,Weight Loss,Low,Gym,General Fitness Plan
+35,Female,76,Maintain,Medium,Home,Bodyweight Workout + Walking
+43,Male,45,Maintain,Medium,Home,Bodyweight Workout + Walking
+18,Male,88,Weight Loss,Low,Gym,General Fitness Plan
+29,Male,100,Weight Loss,High,Gym,General Fitness Plan
+36,Female,91,Muscle Gain,Medium,Home,General Fitness Plan
+37,Male,66,Maintain,High,Home,General Fitness Plan
+27,Male,45,Maintain,Low,Gym,General Fitness Plan
+25,Male,94,Muscle Gain,High,Gym,Strength + Glute Focus
+37,Male,70,Weight Loss,Low,Gym,General Fitness Plan
+34,Female,71,Muscle Gain,High,Home,General Fitness Plan
+31,Male,62,Muscle Gain,High,Home,General Fitness Plan
+42,Female,61,Weight Loss,Medium,Home,General Fitness Plan
+34,Male,85,Weight Loss,Low,Gym,General Fitness Plan
+18,Male,67,Maintain,High,Gym,General Fitness Plan
+20,Male,95,Weight Loss,High,Gym,General Fitness Plan
+45,Male,95,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+44,Male,91,Muscle Gain,Medium,Home,General Fitness Plan
+25,Male,61,Maintain,Medium,Gym,General Fitness Plan
+18,Female,84,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+40,Female,91,Maintain,Low,Home,Light Cardio + Yoga
+37,Male,84,Maintain,High,Gym,General Fitness Plan
+35,Female,80,Maintain,Medium,Gym,General Fitness Plan
+39,Male,75,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+39,Male,46,Maintain,Low,Gym,General Fitness Plan
+42,Female,96,Weight Loss,Medium,Home,General Fitness Plan
+40,Female,93,Maintain,Low,Gym,General Fitness Plan
+20,Female,51,Maintain,Medium,Home,Bodyweight Workout + Walking
+36,Male,58,Muscle Gain,Low,Gym,General Fitness Plan
+43,Male,72,Muscle Gain,Medium,Home,General Fitness Plan
+26,Male,61,Maintain,Medium,Gym,General Fitness Plan
+44,Male,90,Weight Loss,Low,Gym,General Fitness Plan
+20,Female,89,Maintain,Low,Gym,General Fitness Plan
+20,Female,72,Maintain,Medium,Home,Bodyweight Workout + Walking
+37,Male,45,Maintain,Low,Home,Light Cardio + Yoga
+26,Male,83,Maintain,High,Home,General Fitness Plan
+21,Female,83,Weight Loss,High,Home,HIIT + Cardio
+32,Male,55,Weight Loss,High,Home,HIIT + Cardio
+36,Male,80,Muscle Gain,High,Home,General Fitness Plan
+24,Male,84,Muscle Gain,Low,Gym,General Fitness Plan
+41,Female,93,Muscle Gain,High,Gym,Strength + Glute Focus
+39,Female,63,Weight Loss,Medium,Gym,Cardio + Full Body Training
+42,Female,76,Muscle Gain,Low,Gym,General Fitness Plan
+29,Female,90,Muscle Gain,Low,Home,General Fitness Plan
+23,Male,99,Muscle Gain,Medium,Home,General Fitness Plan
+26,Male,74,Maintain,Medium,Home,Bodyweight Workout + Walking
+31,Male,58,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+33,Male,48,Weight Loss,Low,Home,Walking + Light Stretching
+35,Female,56,Weight Loss,Low,Gym,General Fitness Plan
+44,Male,96,Muscle Gain,Low,Gym,General Fitness Plan
+35,Female,54,Muscle Gain,High,Gym,Strength + Glute Focus
+34,Female,55,Muscle Gain,Low,Gym,General Fitness Plan
+18,Female,97,Muscle Gain,High,Gym,Strength + Glute Focus
+29,Female,95,Muscle Gain,High,Home,General Fitness Plan
+35,Female,96,Muscle Gain,Low,Gym,General Fitness Plan
+28,Female,85,Weight Loss,Low,Gym,General Fitness Plan
+24,Female,99,Maintain,Low,Home,Light Cardio + Yoga
+24,Male,74,Weight Loss,High,Gym,General Fitness Plan
+31,Male,58,Weight Loss,High,Home,HIIT + Cardio
+20,Male,90,Maintain,Medium,Home,Bodyweight Workout + Walking
+24,Male,66,Muscle Gain,High,Home,General Fitness Plan
+21,Male,83,Muscle Gain,High,Gym,Strength + Glute Focus
+37,Female,49,Muscle Gain,Low,Gym,General Fitness Plan
+34,Female,91,Maintain,Medium,Gym,General Fitness Plan
+25,Female,45,Maintain,Medium,Gym,General Fitness Plan
+45,Male,71,Weight Loss,Medium,Home,General Fitness Plan
+42,Female,92,Weight Loss,Low,Home,Walking + Light Stretching
+27,Male,71,Maintain,Medium,Gym,General Fitness Plan
+33,Female,86,Weight Loss,High,Home,HIIT + Cardio
+40,Male,90,Muscle Gain,High,Home,General Fitness Plan
+35,Female,89,Muscle Gain,High,Gym,Strength + Glute Focus
+27,Female,89,Weight Loss,Medium,Gym,Cardio + Full Body Training
+43,Male,97,Muscle Gain,Low,Home,General Fitness Plan
+43,Female,67,Weight Loss,Low,Gym,General Fitness Plan
+26,Male,65,Maintain,Low,Home,Light Cardio + Yoga
+29,Female,87,Muscle Gain,High,Home,General Fitness Plan
+36,Male,84,Weight Loss,Low,Home,Walking + Light Stretching
+22,Male,75,Maintain,Medium,Gym,General Fitness Plan
+30,Male,74,Weight Loss,Medium,Gym,Cardio + Full Body Training
+37,Male,70,Muscle Gain,High,Gym,Strength + Glute Focus
+21,Male,65,Muscle Gain,High,Gym,Strength + Glute Focus
+38,Female,84,Weight Loss,Medium,Gym,Cardio + Full Body Training
+30,Female,99,Muscle Gain,Low,Gym,General Fitness Plan
+28,Male,96,Muscle Gain,High,Home,General Fitness Plan
+27,Female,71,Maintain,Medium,Gym,General Fitness Plan
+37,Male,97,Weight Loss,Low,Home,Walking + Light Stretching
+38,Male,72,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+25,Male,92,Maintain,Low,Home,Light Cardio + Yoga
+44,Female,95,Weight Loss,High,Home,HIIT + Cardio
+24,Female,88,Muscle Gain,Medium,Home,General Fitness Plan
+19,Female,58,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+39,Male,72,Maintain,Medium,Home,Bodyweight Workout + Walking
+21,Male,100,Muscle Gain,Low,Home,General Fitness Plan
+27,Female,83,Maintain,Low,Gym,General Fitness Plan
+41,Female,93,Muscle Gain,High,Home,General Fitness Plan
+22,Male,86,Weight Loss,Low,Home,Walking + Light Stretching
+23,Male,55,Maintain,High,Home,General Fitness Plan
+43,Male,65,Weight Loss,Low,Home,Walking + Light Stretching
+40,Female,48,Weight Loss,High,Home,HIIT + Cardio
+31,Female,61,Maintain,Medium,Gym,General Fitness Plan
+41,Male,71,Weight Loss,Low,Gym,General Fitness Plan
+27,Female,90,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+29,Female,84,Weight Loss,Medium,Home,General Fitness Plan
+34,Female,86,Muscle Gain,High,Gym,Strength + Glute Focus
+31,Female,86,Maintain,High,Home,General Fitness Plan
+26,Female,62,Maintain,Low,Gym,General Fitness Plan
+27,Female,56,Muscle Gain,Low,Home,General Fitness Plan
+34,Female,47,Muscle Gain,Low,Gym,General Fitness Plan
+40,Male,89,Weight Loss,High,Home,HIIT + Cardio
+26,Male,76,Weight Loss,Low,Gym,General Fitness Plan
+24,Female,58,Muscle Gain,Medium,Home,General Fitness Plan
+22,Female,96,Muscle Gain,Low,Gym,General Fitness Plan
+42,Male,84,Weight Loss,High,Home,HIIT + Cardio
+32,Male,77,Muscle Gain,High,Gym,Strength + Glute Focus
+40,Male,91,Muscle Gain,Medium,Home,General Fitness Plan
+39,Male,69,Maintain,Low,Gym,General Fitness Plan
+19,Female,72,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+31,Female,94,Maintain,High,Home,General Fitness Plan
+31,Female,76,Muscle Gain,Low,Gym,General Fitness Plan
+25,Male,73,Maintain,Medium,Gym,General Fitness Plan
+25,Male,57,Maintain,Medium,Gym,General Fitness Plan
+23,Female,74,Maintain,High,Home,General Fitness Plan
+23,Male,77,Maintain,Medium,Home,Bodyweight Workout + Walking
+26,Male,88,Weight Loss,High,Home,HIIT + Cardio
+18,Male,77,Maintain,Medium,Gym,General Fitness Plan
+21,Male,87,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+41,Female,49,Muscle Gain,Medium,Home,General Fitness Plan
+36,Female,92,Maintain,Low,Home,Light Cardio + Yoga
+18,Female,94,Maintain,Low,Gym,General Fitness Plan
+25,Male,46,Maintain,Low,Home,Light Cardio + Yoga
+23,Female,78,Weight Loss,High,Home,HIIT + Cardio
+43,Female,99,Maintain,Medium,Gym,General Fitness Plan
+19,Female,94,Maintain,Medium,Gym,General Fitness Plan
+27,Male,69,Weight Loss,Low,Gym,General Fitness Plan
+35,Female,62,Weight Loss,Low,Gym,General Fitness Plan
+24,Male,57,Weight Loss,Low,Gym,General Fitness Plan
+22,Male,80,Muscle Gain,Low,Home,General Fitness Plan
+30,Female,78,Muscle Gain,Low,Gym,General Fitness Plan
+40,Female,94,Muscle Gain,High,Home,General Fitness Plan
+31,Male,61,Weight Loss,Medium,Home,General Fitness Plan
+45,Female,74,Maintain,High,Gym,General Fitness Plan
+25,Female,100,Weight Loss,Low,Home,Walking + Light Stretching
+21,Male,57,Weight Loss,High,Gym,General Fitness Plan
+33,Female,61,Maintain,High,Gym,General Fitness Plan
+20,Male,53,Weight Loss,High,Home,HIIT + Cardio
+43,Male,87,Muscle Gain,Low,Gym,General Fitness Plan
+43,Male,80,Weight Loss,Medium,Gym,Cardio + Full Body Training
+28,Female,96,Muscle Gain,Medium,Home,General Fitness Plan
+23,Male,81,Maintain,Medium,Gym,General Fitness Plan
+38,Female,81,Weight Loss,High,Gym,General Fitness Plan
+23,Female,70,Maintain,Low,Home,Light Cardio + Yoga
+30,Male,82,Weight Loss,Medium,Gym,Cardio + Full Body Training
+29,Male,53,Maintain,Medium,Gym,General Fitness Plan
+24,Female,50,Weight Loss,Low,Home,Walking + Light Stretching
+45,Male,47,Weight Loss,Medium,Gym,Cardio + Full Body Training
+26,Male,45,Maintain,High,Gym,General Fitness Plan
+29,Male,54,Weight Loss,Medium,Gym,Cardio + Full Body Training
+29,Female,92,Maintain,Medium,Gym,General Fitness Plan
+29,Male,79,Muscle Gain,Low,Gym,General Fitness Plan
+34,Female,92,Muscle Gain,Low,Home,General Fitness Plan
+43,Female,86,Maintain,Low,Home,Light Cardio + Yoga
+31,Male,53,Muscle Gain,High,Home,General Fitness Plan
+43,Female,88,Weight Loss,High,Gym,General Fitness Plan
+39,Female,96,Muscle Gain,Low,Gym,General Fitness Plan
+36,Male,56,Muscle Gain,High,Home,General Fitness Plan
+26,Female,49,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+35,Female,84,Weight Loss,Medium,Home,General Fitness Plan
+19,Male,58,Weight Loss,High,Home,HIIT + Cardio
+22,Male,49,Maintain,Low,Gym,General Fitness Plan
+18,Male,86,Maintain,Medium,Gym,General Fitness Plan
+39,Female,97,Maintain,Low,Home,Light Cardio + Yoga
+27,Female,56,Muscle Gain,Low,Home,General Fitness Plan
+28,Male,97,Weight Loss,Medium,Gym,Cardio + Full Body Training
+19,Female,83,Maintain,Low,Home,Light Cardio + Yoga
+19,Female,50,Weight Loss,High,Gym,General Fitness Plan
+22,Male,55,Weight Loss,Medium,Gym,Cardio + Full Body Training
+31,Female,88,Muscle Gain,High,Home,General Fitness Plan
+34,Male,45,Muscle Gain,High,Gym,Strength + Glute Focus
+23,Female,47,Muscle Gain,Medium,Home,General Fitness Plan
+30,Male,98,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+31,Male,64,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+19,Female,88,Muscle Gain,Medium,Home,General Fitness Plan
+44,Female,80,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+30,Female,68,Weight Loss,High,Home,HIIT + Cardio
+21,Female,78,Maintain,Low,Gym,General Fitness Plan
+32,Male,85,Weight Loss,Low,Home,Walking + Light Stretching
+20,Female,57,Maintain,Medium,Gym,General Fitness Plan
+18,Male,65,Weight Loss,Low,Home,Walking + Light Stretching
+38,Male,95,Weight Loss,Medium,Home,General Fitness Plan
+42,Female,78,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+32,Female,65,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+22,Male,57,Maintain,Low,Home,Light Cardio + Yoga
+26,Male,60,Muscle Gain,High,Gym,Strength + Glute Focus
+29,Female,87,Maintain,Low,Home,Light Cardio + Yoga
+40,Male,88,Maintain,Medium,Home,Bodyweight Workout + Walking
+40,Female,87,Maintain,High,Home,General Fitness Plan
+32,Female,93,Weight Loss,Low,Gym,General Fitness Plan
+22,Female,51,Weight Loss,Medium,Gym,Cardio + Full Body Training
+33,Female,97,Maintain,Low,Gym,General Fitness Plan
+40,Female,81,Maintain,High,Home,General Fitness Plan
+26,Female,88,Maintain,Low,Home,Light Cardio + Yoga
+45,Female,47,Muscle Gain,High,Home,General Fitness Plan
+18,Male,72,Maintain,Low,Gym,General Fitness Plan
+25,Male,61,Muscle Gain,High,Home,General Fitness Plan
+42,Male,78,Maintain,Medium,Home,Bodyweight Workout + Walking
+42,Male,74,Weight Loss,Medium,Gym,Cardio + Full Body Training
+35,Male,80,Maintain,High,Gym,General Fitness Plan
+25,Male,63,Muscle Gain,Medium,Home,General Fitness Plan
+36,Female,48,Weight Loss,High,Home,HIIT + Cardio
+20,Female,99,Muscle Gain,High,Home,General Fitness Plan
+19,Female,49,Muscle Gain,High,Gym,Strength + Glute Focus
+28,Male,62,Weight Loss,Low,Home,Walking + Light Stretching
+42,Male,89,Muscle Gain,Low,Gym,General Fitness Plan
+42,Male,49,Muscle Gain,High,Home,General Fitness Plan
+35,Female,71,Weight Loss,High,Home,HIIT + Cardio
+25,Male,59,Weight Loss,Low,Gym,General Fitness Plan
+34,Male,88,Muscle Gain,High,Gym,Strength + Glute Focus
+33,Male,91,Weight Loss,Medium,Gym,Cardio + Full Body Training
+28,Male,77,Muscle Gain,High,Home,General Fitness Plan
+31,Female,76,Weight Loss,Medium,Home,General Fitness Plan
+36,Male,63,Maintain,High,Home,General Fitness Plan
+35,Male,98,Muscle Gain,Low,Home,General Fitness Plan
+25,Female,50,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+22,Male,57,Maintain,Medium,Gym,General Fitness Plan
+41,Female,74,Muscle Gain,Medium,Home,General Fitness Plan
+18,Female,81,Muscle Gain,High,Home,General Fitness Plan
+33,Male,52,Maintain,Low,Gym,General Fitness Plan
+42,Female,45,Weight Loss,Low,Home,Walking + Light Stretching
+18,Female,67,Maintain,Medium,Gym,General Fitness Plan
+34,Female,90,Muscle Gain,High,Gym,Strength + Glute Focus
+20,Male,55,Weight Loss,Medium,Gym,Cardio + Full Body Training
+18,Female,80,Maintain,High,Home,General Fitness Plan
+35,Male,45,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+26,Female,71,Maintain,Low,Gym,General Fitness Plan
+24,Female,63,Muscle Gain,Medium,Home,General Fitness Plan
+42,Male,66,Weight Loss,High,Home,HIIT + Cardio
+44,Male,74,Muscle Gain,High,Gym,Strength + Glute Focus
+31,Female,73,Maintain,High,Home,General Fitness Plan
+33,Female,56,Maintain,Medium,Gym,General Fitness Plan
+27,Male,96,Maintain,Low,Home,Light Cardio + Yoga
+36,Female,49,Weight Loss,Low,Home,Walking + Light Stretching
+20,Female,98,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+21,Female,83,Maintain,Medium,Home,Bodyweight Workout + Walking
+18,Female,64,Maintain,High,Gym,General Fitness Plan
+23,Male,85,Muscle Gain,High,Gym,Strength + Glute Focus
+18,Female,54,Weight Loss,Medium,Gym,Cardio + Full Body Training
+44,Male,82,Maintain,High,Gym,General Fitness Plan
+28,Female,82,Muscle Gain,Medium,Home,General Fitness Plan
+32,Female,45,Maintain,Low,Home,Light Cardio + Yoga
+31,Female,57,Muscle Gain,Low,Gym,General Fitness Plan
+36,Female,65,Maintain,Low,Gym,General Fitness Plan
+24,Female,97,Maintain,High,Home,General Fitness Plan
+33,Female,59,Maintain,Low,Gym,General Fitness Plan
+27,Female,63,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+25,Male,67,Maintain,Medium,Gym,General Fitness Plan
+18,Female,74,Muscle Gain,Low,Home,General Fitness Plan
+33,Female,73,Weight Loss,Medium,Home,General Fitness Plan
+36,Female,94,Weight Loss,Medium,Home,General Fitness Plan
+26,Female,59,Maintain,Medium,Gym,General Fitness Plan
+35,Female,77,Weight Loss,High,Home,HIIT + Cardio
+24,Female,75,Muscle Gain,High,Home,General Fitness Plan
+27,Female,53,Weight Loss,Medium,Home,General Fitness Plan
+38,Male,59,Weight Loss,Medium,Gym,Cardio + Full Body Training
+37,Female,63,Weight Loss,High,Home,HIIT + Cardio
+45,Female,56,Maintain,Low,Home,Light Cardio + Yoga
+41,Male,89,Maintain,Low,Home,Light Cardio + Yoga
+36,Male,83,Muscle Gain,High,Gym,Strength + Glute Focus
+34,Male,83,Muscle Gain,Medium,Home,General Fitness Plan
+39,Male,98,Maintain,High,Home,General Fitness Plan
+29,Male,64,Maintain,Low,Gym,General Fitness Plan
+23,Female,73,Muscle Gain,Low,Gym,General Fitness Plan
+38,Female,95,Muscle Gain,Medium,Home,General Fitness Plan
+39,Male,50,Maintain,Low,Gym,General Fitness Plan
+34,Female,52,Muscle Gain,High,Home,General Fitness Plan
+37,Male,63,Weight Loss,Medium,Gym,Cardio + Full Body Training
+38,Female,83,Weight Loss,Low,Gym,General Fitness Plan
+32,Male,86,Muscle Gain,Low,Gym,General Fitness Plan
+20,Female,48,Weight Loss,Low,Gym,General Fitness Plan
+30,Male,69,Maintain,Low,Home,Light Cardio + Yoga
+28,Female,82,Muscle Gain,Medium,Home,General Fitness Plan
+39,Female,72,Muscle Gain,Low,Home,General Fitness Plan
+19,Male,79,Maintain,Low,Home,Light Cardio + Yoga
+35,Female,62,Weight Loss,High,Home,HIIT + Cardio
+43,Female,63,Weight Loss,Medium,Gym,Cardio + Full Body Training
+28,Male,72,Weight Loss,Medium,Home,General Fitness Plan
+42,Male,94,Maintain,Medium,Gym,General Fitness Plan
+43,Female,99,Muscle Gain,Low,Home,General Fitness Plan
+28,Male,73,Maintain,High,Home,General Fitness Plan
+42,Female,63,Weight Loss,Low,Gym,General Fitness Plan
+23,Female,74,Maintain,Medium,Gym,General Fitness Plan
+40,Male,100,Weight Loss,Low,Home,Walking + Light Stretching
+44,Male,51,Maintain,Medium,Gym,General Fitness Plan
+41,Female,82,Muscle Gain,Low,Home,General Fitness Plan
+40,Male,97,Muscle Gain,Low,Home,General Fitness Plan
+44,Male,82,Maintain,High,Gym,General Fitness Plan
+32,Female,53,Maintain,High,Home,General Fitness Plan
+30,Female,47,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+29,Male,69,Weight Loss,Medium,Gym,Cardio + Full Body Training
+42,Male,55,Muscle Gain,High,Gym,Strength + Glute Focus
+37,Female,59,Weight Loss,High,Gym,General Fitness Plan
+32,Male,63,Weight Loss,High,Gym,General Fitness Plan
+25,Female,67,Weight Loss,Medium,Home,General Fitness Plan
+31,Female,61,Muscle Gain,Low,Gym,General Fitness Plan
+45,Male,68,Weight Loss,Low,Home,Walking + Light Stretching
+32,Male,49,Weight Loss,Low,Gym,General Fitness Plan
+43,Female,71,Muscle Gain,High,Home,General Fitness Plan
+27,Female,58,Weight Loss,Medium,Gym,Cardio + Full Body Training
+45,Male,89,Muscle Gain,Low,Home,General Fitness Plan
+31,Female,92,Maintain,High,Gym,General Fitness Plan
+25,Female,81,Maintain,Low,Home,Light Cardio + Yoga
+20,Male,75,Muscle Gain,Low,Gym,General Fitness Plan
+28,Female,69,Muscle Gain,Low,Gym,General Fitness Plan
+30,Male,50,Maintain,Medium,Home,Bodyweight Workout + Walking
+26,Female,83,Weight Loss,Medium,Home,General Fitness Plan
+42,Male,47,Muscle Gain,High,Gym,Strength + Glute Focus
+28,Female,67,Weight Loss,Low,Home,Walking + Light Stretching
+40,Male,64,Weight Loss,Medium,Gym,Cardio + Full Body Training
+18,Male,62,Maintain,Medium,Home,Bodyweight Workout + Walking
+45,Female,56,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+26,Female,85,Maintain,High,Gym,General Fitness Plan
+42,Male,78,Weight Loss,Low,Gym,General Fitness Plan
+22,Male,91,Weight Loss,Medium,Home,General Fitness Plan
+40,Female,64,Muscle Gain,Low,Gym,General Fitness Plan
+40,Male,45,Maintain,Medium,Home,Bodyweight Workout + Walking
+18,Male,76,Weight Loss,High,Gym,General Fitness Plan
+39,Male,63,Weight Loss,Low,Gym,General Fitness Plan
+41,Female,98,Maintain,High,Home,General Fitness Plan
+37,Male,92,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+28,Male,70,Weight Loss,High,Gym,General Fitness Plan
+21,Male,62,Maintain,Low,Home,Light Cardio + Yoga
+22,Female,80,Maintain,Medium,Home,Bodyweight Workout + Walking
+22,Male,100,Weight Loss,Low,Home,Walking + Light Stretching
+18,Male,82,Maintain,Medium,Gym,General Fitness Plan
+30,Female,61,Maintain,Low,Gym,General Fitness Plan
+19,Female,83,Maintain,Low,Gym,General Fitness Plan
+37,Female,96,Muscle Gain,High,Gym,Strength + Glute Focus
+36,Female,77,Maintain,Low,Home,Light Cardio + Yoga
+41,Male,85,Muscle Gain,Low,Home,General Fitness Plan
+24,Female,89,Muscle Gain,Medium,Home,General Fitness Plan
+34,Female,59,Maintain,High,Home,General Fitness Plan
+34,Female,59,Maintain,Low,Gym,General Fitness Plan
+42,Male,64,Weight Loss,Medium,Gym,Cardio + Full Body Training
+32,Male,56,Weight Loss,Medium,Gym,Cardio + Full Body Training
+41,Male,91,Maintain,Low,Gym,General Fitness Plan
+42,Male,92,Maintain,Low,Home,Light Cardio + Yoga
+26,Male,62,Weight Loss,Low,Gym,General Fitness Plan
+41,Female,78,Weight Loss,Medium,Home,General Fitness Plan
+37,Male,54,Muscle Gain,Medium,Home,General Fitness Plan
+29,Male,69,Weight Loss,Low,Home,Walking + Light Stretching
+38,Female,45,Muscle Gain,Low,Gym,General Fitness Plan
+37,Female,61,Weight Loss,Low,Gym,General Fitness Plan
+19,Male,47,Muscle Gain,High,Gym,Strength + Glute Focus
+37,Female,77,Weight Loss,Medium,Gym,Cardio + Full Body Training
+43,Male,53,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+35,Female,51,Weight Loss,High,Home,HIIT + Cardio
+19,Female,53,Maintain,Low,Home,Light Cardio + Yoga
+27,Male,98,Weight Loss,Medium,Gym,Cardio + Full Body Training
+25,Female,69,Maintain,Low,Home,Light Cardio + Yoga
+30,Male,92,Weight Loss,Low,Home,Walking + Light Stretching
+21,Female,75,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+41,Female,97,Muscle Gain,High,Home,General Fitness Plan
+45,Male,71,Weight Loss,Medium,Home,General Fitness Plan
+27,Female,55,Maintain,Low,Home,Light Cardio + Yoga
+44,Male,96,Muscle Gain,Medium,Home,General Fitness Plan
+23,Female,87,Weight Loss,Low,Gym,General Fitness Plan
+26,Male,61,Weight Loss,Medium,Home,General Fitness Plan
+41,Male,65,Maintain,Low,Home,Light Cardio + Yoga
+30,Male,58,Muscle Gain,High,Gym,Strength + Glute Focus
+41,Male,47,Muscle Gain,Low,Gym,General Fitness Plan
+24,Female,61,Maintain,Low,Gym,General Fitness Plan
+24,Female,99,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+23,Male,72,Muscle Gain,High,Home,General Fitness Plan
+34,Male,54,Weight Loss,High,Home,HIIT + Cardio
+45,Male,67,Muscle Gain,Medium,Home,General Fitness Plan
+43,Male,75,Muscle Gain,High,Gym,Strength + Glute Focus
+30,Female,100,Muscle Gain,High,Gym,Strength + Glute Focus
+38,Male,73,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+26,Female,69,Maintain,High,Gym,General Fitness Plan
+18,Female,71,Muscle Gain,High,Home,General Fitness Plan
+34,Male,78,Muscle Gain,Low,Home,General Fitness Plan
+32,Female,91,Weight Loss,High,Gym,General Fitness Plan
+19,Male,95,Weight Loss,Medium,Gym,Cardio + Full Body Training
+39,Female,67,Weight Loss,Medium,Gym,Cardio + Full Body Training
+28,Male,87,Weight Loss,Medium,Gym,Cardio + Full Body Training
+45,Male,73,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+28,Female,70,Maintain,Low,Gym,General Fitness Plan
+33,Male,95,Muscle Gain,Low,Home,General Fitness Plan
+44,Female,55,Maintain,High,Gym,General Fitness Plan
+35,Female,95,Maintain,High,Gym,General Fitness Plan
+28,Male,48,Muscle Gain,High,Gym,Strength + Glute Focus
+42,Male,59,Maintain,Medium,Gym,General Fitness Plan
+40,Male,100,Maintain,Medium,Home,Bodyweight Workout + Walking
+21,Male,71,Maintain,Medium,Home,Bodyweight Workout + Walking
+44,Female,95,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+34,Male,71,Weight Loss,Medium,Gym,Cardio + Full Body Training
+28,Female,98,Muscle Gain,High,Home,General Fitness Plan
+32,Female,88,Weight Loss,Low,Home,Walking + Light Stretching
+30,Male,72,Muscle Gain,Low,Home,General Fitness Plan
+41,Female,72,Muscle Gain,Medium,Home,General Fitness Plan
+24,Male,98,Maintain,Medium,Home,Bodyweight Workout + Walking
+28,Female,62,Maintain,Low,Gym,General Fitness Plan
+42,Female,61,Muscle Gain,High,Home,General Fitness Plan
+29,Male,65,Weight Loss,High,Home,HIIT + Cardio
+19,Male,60,Maintain,Low,Gym,General Fitness Plan
+28,Female,81,Weight Loss,High,Gym,General Fitness Plan
+25,Male,77,Muscle Gain,High,Gym,Strength + Glute Focus
+18,Male,73,Weight Loss,Medium,Gym,Cardio + Full Body Training
+43,Male,100,Muscle Gain,Low,Home,General Fitness Plan
+40,Female,91,Muscle Gain,Low,Home,General Fitness Plan
+37,Male,89,Muscle Gain,Low,Home,General Fitness Plan
+22,Female,87,Weight Loss,High,Gym,General Fitness Plan
+33,Female,53,Maintain,High,Gym,General Fitness Plan
+32,Female,72,Muscle Gain,Medium,Home,General Fitness Plan
+44,Female,82,Weight Loss,Low,Gym,General Fitness Plan
+45,Female,77,Muscle Gain,High,Home,General Fitness Plan
+22,Male,50,Weight Loss,Medium,Home,General Fitness Plan
+37,Male,95,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+21,Male,86,Maintain,Low,Gym,General Fitness Plan
+31,Female,94,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+31,Male,49,Weight Loss,High,Home,HIIT + Cardio
+36,Female,46,Weight Loss,Low,Home,Walking + Light Stretching
+34,Female,50,Muscle Gain,Low,Home,General Fitness Plan
+32,Female,66,Maintain,High,Gym,General Fitness Plan
+34,Female,51,Maintain,Low,Home,Light Cardio + Yoga
+33,Female,86,Maintain,Medium,Home,Bodyweight Workout + Walking
+26,Female,67,Maintain,Medium,Home,Bodyweight Workout + Walking
+30,Male,54,Maintain,High,Gym,General Fitness Plan
+30,Female,50,Weight Loss,High,Home,HIIT + Cardio
+43,Male,78,Maintain,High,Home,General Fitness Plan
+20,Male,79,Weight Loss,High,Gym,General Fitness Plan
+33,Male,100,Weight Loss,High,Home,HIIT + Cardio
+19,Male,82,Muscle Gain,Low,Gym,General Fitness Plan
+38,Male,89,Maintain,Low,Home,Light Cardio + Yoga
+34,Male,82,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+40,Female,59,Muscle Gain,High,Gym,Strength + Glute Focus
+31,Male,55,Maintain,Low,Home,Light Cardio + Yoga
+43,Male,53,Muscle Gain,Low,Gym,General Fitness Plan
+43,Female,81,Maintain,Medium,Home,Bodyweight Workout + Walking
+29,Male,89,Maintain,Medium,Gym,General Fitness Plan
+22,Female,91,Weight Loss,Low,Home,Walking + Light Stretching
+45,Female,100,Weight Loss,Medium,Home,General Fitness Plan
+34,Female,88,Maintain,Low,Gym,General Fitness Plan
+26,Female,51,Muscle Gain,Medium,Home,General Fitness Plan
+23,Female,82,Weight Loss,High,Gym,General Fitness Plan
+44,Male,77,Maintain,Medium,Home,Bodyweight Workout + Walking
+36,Female,47,Weight Loss,Medium,Gym,Cardio + Full Body Training
+20,Male,95,Maintain,Low,Home,Light Cardio + Yoga
+32,Female,68,Maintain,Medium,Home,Bodyweight Workout + Walking
+19,Female,48,Muscle Gain,High,Home,General Fitness Plan
+31,Male,88,Maintain,Medium,Home,Bodyweight Workout + Walking
+35,Male,82,Weight Loss,Medium,Home,General Fitness Plan
+35,Male,57,Weight Loss,Low,Home,Walking + Light Stretching
+24,Male,48,Maintain,High,Home,General Fitness Plan
+41,Male,94,Weight Loss,High,Home,HIIT + Cardio
+19,Male,49,Muscle Gain,Low,Gym,General Fitness Plan
+41,Male,80,Muscle Gain,Low,Home,General Fitness Plan
+41,Female,84,Muscle Gain,High,Home,General Fitness Plan
+33,Female,63,Maintain,Medium,Home,Bodyweight Workout + Walking
+22,Female,46,Muscle Gain,Medium,Home,General Fitness Plan
+26,Male,71,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+31,Male,78,Maintain,Medium,Gym,General Fitness Plan
+30,Male,68,Muscle Gain,High,Gym,Strength + Glute Focus
+21,Male,55,Weight Loss,High,Gym,General Fitness Plan
+25,Male,69,Muscle Gain,Low,Gym,General Fitness Plan
+28,Male,92,Maintain,Medium,Gym,General Fitness Plan
+36,Female,54,Maintain,High,Gym,General Fitness Plan
+44,Male,69,Muscle Gain,Medium,Home,General Fitness Plan
+29,Female,91,Weight Loss,Medium,Gym,Cardio + Full Body Training
+38,Male,95,Maintain,High,Home,General Fitness Plan
+37,Male,72,Weight Loss,Low,Gym,General Fitness Plan
+39,Female,73,Muscle Gain,High,Gym,Strength + Glute Focus
+35,Female,53,Maintain,Low,Gym,General Fitness Plan
+22,Male,58,Maintain,Low,Gym,General Fitness Plan
+29,Male,53,Maintain,Medium,Gym,General Fitness Plan
+22,Female,74,Maintain,Medium,Home,Bodyweight Workout + Walking
+28,Female,47,Maintain,Low,Home,Light Cardio + Yoga
+45,Female,73,Maintain,High,Gym,General Fitness Plan
+35,Male,96,Weight Loss,Low,Gym,General Fitness Plan
+29,Male,50,Maintain,Low,Home,Light Cardio + Yoga
+40,Male,52,Muscle Gain,High,Gym,Strength + Glute Focus
+28,Male,88,Weight Loss,Low,Home,Walking + Light Stretching
+42,Male,47,Muscle Gain,Medium,Home,General Fitness Plan
+44,Male,60,Muscle Gain,High,Gym,Strength + Glute Focus
+40,Female,98,Muscle Gain,High,Gym,Strength + Glute Focus
+29,Female,47,Maintain,High,Gym,General Fitness Plan
+37,Male,95,Muscle Gain,Low,Gym,General Fitness Plan
+40,Female,92,Weight Loss,Medium,Gym,Cardio + Full Body Training
+29,Male,63,Maintain,Low,Gym,General Fitness Plan
+40,Male,53,Muscle Gain,High,Home,General Fitness Plan
+41,Male,75,Weight Loss,Low,Home,Walking + Light Stretching
+41,Male,79,Maintain,Medium,Gym,General Fitness Plan
+29,Female,83,Maintain,Low,Home,Light Cardio + Yoga
+38,Female,83,Muscle Gain,High,Home,General Fitness Plan
+35,Female,72,Muscle Gain,High,Gym,Strength + Glute Focus
+30,Male,86,Muscle Gain,High,Home,General Fitness Plan
+36,Male,68,Muscle Gain,Low,Home,General Fitness Plan
+34,Male,65,Maintain,Medium,Gym,General Fitness Plan
+31,Female,46,Weight Loss,Low,Home,Walking + Light Stretching
+36,Female,79,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+18,Female,79,Maintain,Low,Gym,General Fitness Plan
+43,Male,92,Weight Loss,Low,Gym,General Fitness Plan
+44,Male,64,Weight Loss,High,Gym,General Fitness Plan
+36,Female,81,Weight Loss,High,Home,HIIT + Cardio
+41,Female,66,Maintain,High,Home,General Fitness Plan
+33,Male,67,Maintain,Low,Home,Light Cardio + Yoga
+32,Female,57,Muscle Gain,Low,Home,General Fitness Plan
+27,Male,100,Muscle Gain,Low,Home,General Fitness Plan
+27,Female,73,Maintain,Low,Home,Light Cardio + Yoga
+44,Male,60,Weight Loss,High,Gym,General Fitness Plan
+27,Female,63,Maintain,High,Home,General Fitness Plan
+45,Male,82,Muscle Gain,High,Gym,Strength + Glute Focus
+22,Male,64,Weight Loss,Medium,Home,General Fitness Plan
+36,Male,79,Weight Loss,High,Home,HIIT + Cardio
+39,Female,75,Maintain,Medium,Gym,General Fitness Plan
+20,Female,47,Maintain,Medium,Home,Bodyweight Workout + Walking
+28,Female,47,Weight Loss,High,Home,HIIT + Cardio
+33,Female,97,Muscle Gain,High,Gym,Strength + Glute Focus
+38,Male,55,Weight Loss,Medium,Home,General Fitness Plan
+44,Female,71,Maintain,Low,Gym,General Fitness Plan
+29,Male,84,Muscle Gain,High,Gym,Strength + Glute Focus
+37,Female,63,Muscle Gain,Medium,Home,General Fitness Plan
+36,Female,49,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+45,Female,57,Muscle Gain,Medium,Home,General Fitness Plan
+42,Male,68,Weight Loss,Low,Gym,General Fitness Plan
+19,Male,57,Muscle Gain,High,Gym,Strength + Glute Focus
+21,Male,48,Maintain,Medium,Gym,General Fitness Plan
+42,Male,52,Muscle Gain,Low,Home,General Fitness Plan
+18,Male,78,Maintain,High,Home,General Fitness Plan
+32,Male,74,Weight Loss,High,Gym,General Fitness Plan
+33,Female,90,Maintain,High,Home,General Fitness Plan
+43,Male,46,Weight Loss,Medium,Home,General Fitness Plan
+43,Male,92,Maintain,Low,Home,Light Cardio + Yoga
+22,Female,75,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+31,Male,83,Muscle Gain,High,Home,General Fitness Plan
+37,Male,70,Maintain,High,Home,General Fitness Plan
+22,Female,78,Maintain,Low,Gym,General Fitness Plan
+41,Female,69,Weight Loss,High,Home,HIIT + Cardio
+21,Male,67,Weight Loss,Low,Gym,General Fitness Plan
+33,Male,82,Muscle Gain,Low,Gym,General Fitness Plan
+31,Female,84,Weight Loss,Low,Gym,General Fitness Plan
+33,Female,53,Maintain,Medium,Gym,General Fitness Plan
+28,Male,74,Weight Loss,Medium,Home,General Fitness Plan
+37,Female,98,Weight Loss,Low,Gym,General Fitness Plan
+29,Female,52,Muscle Gain,High,Gym,Strength + Glute Focus
+33,Male,60,Maintain,Low,Gym,General Fitness Plan
+28,Male,58,Weight Loss,High,Gym,General Fitness Plan
+24,Female,62,Maintain,Medium,Home,Bodyweight Workout + Walking
+25,Male,93,Muscle Gain,High,Gym,Strength + Glute Focus
+35,Female,84,Muscle Gain,Medium,Home,General Fitness Plan
+42,Female,53,Weight Loss,Medium,Gym,Cardio + Full Body Training
+40,Female,51,Muscle Gain,High,Home,General Fitness Plan
+42,Male,88,Muscle Gain,Low,Gym,General Fitness Plan
+19,Male,60,Weight Loss,Low,Home,Walking + Light Stretching
+33,Female,99,Muscle Gain,High,Home,General Fitness Plan
+38,Female,86,Weight Loss,High,Home,HIIT + Cardio
+27,Male,61,Muscle Gain,High,Home,General Fitness Plan
+31,Male,50,Maintain,Low,Home,Light Cardio + Yoga
+43,Female,73,Muscle Gain,Medium,Home,General Fitness Plan
+43,Female,91,Maintain,High,Gym,General Fitness Plan
+37,Female,70,Muscle Gain,High,Home,General Fitness Plan
+45,Male,75,Weight Loss,High,Gym,General Fitness Plan
+25,Female,46,Maintain,Medium,Gym,General Fitness Plan
+29,Male,62,Muscle Gain,Low,Home,General Fitness Plan
+35,Female,47,Maintain,Medium,Gym,General Fitness Plan
+31,Female,74,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+38,Male,90,Muscle Gain,Low,Gym,General Fitness Plan
+25,Male,48,Muscle Gain,Medium,Home,General Fitness Plan
+26,Female,74,Weight Loss,Low,Gym,General Fitness Plan
+41,Male,65,Muscle Gain,Medium,Home,General Fitness Plan
+45,Male,82,Weight Loss,Low,Home,Walking + Light Stretching
+37,Male,62,Muscle Gain,High,Gym,Strength + Glute Focus
+28,Female,98,Muscle Gain,High,Home,General Fitness Plan
+35,Female,80,Muscle Gain,Low,Home,General Fitness Plan
+32,Male,64,Muscle Gain,Medium,Home,General Fitness Plan
+37,Female,91,Maintain,High,Gym,General Fitness Plan
+38,Female,89,Weight Loss,Medium,Home,General Fitness Plan
+37,Female,94,Maintain,Medium,Gym,General Fitness Plan
+45,Male,48,Muscle Gain,Medium,Home,General Fitness Plan
+22,Male,60,Maintain,High,Gym,General Fitness Plan
+42,Female,82,Weight Loss,Low,Gym,General Fitness Plan
+37,Female,52,Muscle Gain,Medium,Home,General Fitness Plan
+24,Female,98,Muscle Gain,High,Gym,Strength + Glute Focus
+27,Male,57,Muscle Gain,High,Gym,Strength + Glute Focus
+22,Female,92,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+45,Male,88,Muscle Gain,Low,Gym,General Fitness Plan
+25,Female,63,Muscle Gain,High,Home,General Fitness Plan
+38,Female,45,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+36,Female,70,Weight Loss,Medium,Home,General Fitness Plan
+42,Male,77,Muscle Gain,High,Home,General Fitness Plan
+30,Female,47,Maintain,Low,Gym,General Fitness Plan
+19,Male,76,Weight Loss,Medium,Gym,Cardio + Full Body Training
+39,Female,48,Weight Loss,Medium,Home,General Fitness Plan
+28,Male,90,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
+29,Male,92,Weight Loss,Low,Gym,General Fitness Plan
+35,Male,64,Maintain,Low,Home,Light Cardio + Yoga
+33,Female,98,Weight Loss,Low,Home,Walking + Light Stretching
+28,Female,95,Muscle Gain,Medium,Gym,Strength + Upper/Lower Split
