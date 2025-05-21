@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { motion } from "framer-motion";
 import type { AdviceType } from "../types/AdviceType";
 
@@ -48,11 +47,6 @@ const SubTitle = ({ children }: { children: React.ReactNode }) => (
 );
 
 export default function Advicing({ Result }: { Result: AdviceType }) {
-  const [expandedSection, setExpandedSection] = useState<string | null>(null);
-  
-  const toggleSection = (section: string) => {
-    setExpandedSection(expandedSection === section ? null : section);
-  };
 
   if (!Result) return null;
 
