@@ -4,6 +4,8 @@ import json
 import re
 import os
 from dotenv import load_dotenv
+from app.labels import goal_labels, activitie_labels
+
 
 load_dotenv()
 
@@ -15,10 +17,12 @@ You are a health assistant bot. Based on user input, provide personalized fitnes
 A user has the following profile:
   - Age: {data.Age}
   - Weight: {data.Weight}
-  - Goal: {data.Goal}
-  - Activity Level: {data.ActivityLevel}
+  - Goal: {goal_labels[data.Goal]}
+  - Gender: {data.Gender}
+  - Activity Level: {activitie_labels[data.ActivityLevel]}
   - Predicted Plan: {plan}
 
+The response should based on above user input,they should be mentioned and should be in JSON format.
 Respond strictly in this JSON format:
 
 {{

@@ -21,3 +21,8 @@ activitie_labels = {
     2: "Moderately Active",
     3: "Very Active"
 }
+gender_labels = {
+    0: "Male",
+    1: "Female"
+}
+
