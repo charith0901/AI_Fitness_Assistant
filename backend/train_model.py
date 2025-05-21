@@ -5,22 +5,23 @@ from sklearn.tree import DecisionTreeClassifier
 import pickle
 
 # 1. Load dataset
-df = pd.read_csv("fitness_data_1000.csv")
+df = pd.read_csv("fitness_data.csv")
 
 # 2. Label encode text fields
 le = LabelEncoder()
+df["Age"] = le.fit_transform(df["Age"])
+df["Weight"] = le.fit_transform(df["Weight"])
 df["Gender"] = le.fit_transform(df["Gender"])
 df["Goal"] = le.fit_transform(df["Goal"])
 df["ActivityLevel"] = le.fit_transform(df["ActivityLevel"])
-df["WorkoutType"] = le.fit_transform(df["WorkoutType"])
-df["Plan"] = le.fit_transform(df["Plan"])  # This is the target label
+df["Plan"] = le.fit_transform(df["Plan"])
 
 # Optional: Save encoders if needed later
 with open("label_encoder.pkl", "wb") as f:
     pickle.dump(le, f)
 
 # 3. Split features and target
-X = df[["Age", "Gender", "Weight", "Goal", "ActivityLevel", "WorkoutType"]]
+X = df[["Age", "Gender", "Weight", "Goal", "ActivityLevel"]]
 y = df["Plan"]
 
 # 4. Split into training and test sets
