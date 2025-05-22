@@ -1,4 +1,4 @@
-Age,Gender,Weight,Goal,ActivityLevel,WorkoutType,Plan
+Age,Gender,Weight,Goal,Activitylevel,WorkoutType,Plan
 37,Female,68,Weight Loss,Low,Gym,General Fitness Plan
 19,Female,63,Maintain,Medium,Gym,General Fitness Plan
 40,Male,77,Maintain,High,Gym,General Fitness Plan

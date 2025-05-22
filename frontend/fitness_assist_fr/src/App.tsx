@@ -4,6 +4,7 @@ import Result from './components/Result';
 import './App.css';
 import RecentInputs from './components/RecentInputs';
 import { BiHeart } from 'react-icons/bi';
+import Model_Info from './components/Model_Info';
 
 function App() {
   return (
@@ -18,6 +19,8 @@ function App() {
               <Route path="/" element={<Home />} />
               <Route path="/result" element={<Result />} />
               <Route path='/recent' element={<RecentInputs />} />
+              <Route path='/model_info' element={<Model_Info/>} />
+              <Route path="*" element={<Home />} />
             </Routes>
           </div>
         </div>

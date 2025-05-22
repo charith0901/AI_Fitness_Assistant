@@ -47,7 +47,7 @@ function Home() {
       setIsSubmitting(false);
     }
   };
-
+   
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-purple-50 py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-6xl mx-auto">
@@ -109,6 +109,16 @@ function Home() {
                   whileTap={{ scale: 0.97 }}
                 >
                   <span>View Recent Inputs</span>
+                </motion.button>
+              </Link>
+              <Link to="/model_info">
+                <motion.button 
+                  className="w-full bg-gray-100 hover:bg-gray-200 text-gray-700 py-3 px-4 rounded-lg font-medium transition duration-200 flex items-center justify-center gap-2"
+                  whileHover={{ scale: 1.03 }}
+                  whileTap={{ scale: 0.97 }}
+                  //onClick={() => handleRetrainModel()}
+                >
+                  <span>Model Info</span>
                 </motion.button>
               </Link>
             </motion.div>
