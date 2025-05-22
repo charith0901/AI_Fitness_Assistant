@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import type { ModelType } from "../types/ModelType";
 import instance from "../axiosConfig";
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 
 export default function Model_Info() {
     const [modelInfo, setModelInfo] = useState<ModelType | null>(null);
@@ -44,20 +45,44 @@ export default function Model_Info() {
                 className="w-full bg-gray-100 hover:bg-gray-200 text-gray-700 py-3 px-4 rounded-lg font-medium transition duration-200 flex items-center justify-center gap-2"
                 whileHover={{ scale: 1.03 }}
                 whileTap={{ scale: 0.97 }}
-                onClick={() => handleRetrainModel()}
+                onClick={handleRetrainModel}
                 disabled={isSubmitting}
+                aria-busy={isSubmitting}
+                aria-live="polite"
+                aria-label={isSubmitting ? "Retraining the model" : "Retrain the model"}
+                type="button"
             >
-                <span>{isSubmitting ? "Retraining..." : "Retrain The Model"}</span>
+                <span>
+                    {isSubmitting ? "Retraining..." : "Retrain The Model"}
+                </span>
                 {isSubmitting && (
-                    <svg className="animate-spin h-5 w-5 text-gray-700" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <svg
+                        className="animate-spin h-5 w-5 text-gray-700"
+                        xmlns="http://www.w3.org/2000/svg"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        role="status"
+                        aria-hidden="true"
+                        focusable="false"
+                    >
                         <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
                         <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
                     </svg>
                 )}
             </motion.button>
-            
+            <Link to="/" tabIndex={-1} aria-label="Go back to home">
+                <motion.button
+                    className="w-full bg-gray-100 hover:bg-gray-200 text-gray-700 py-3 px-4 rounded-lg font-medium transition duration-200 flex items-center justify-center gap-2"
+                    whileHover={{ scale: 1.03 }}
+                    whileTap={{ scale: 0.97 }}
+                    type="button"
+                >
+                    Get Back
+                </motion.button>
+            </Link>
+
             {modelInfo ? (
-                <motion.div 
+                <motion.div
                     className="bg-white rounded-lg shadow-md p-6 border border-gray-200"
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
@@ -88,9 +113,8 @@ export default function Model_Info() {
                         <div className="grid grid-cols-3 gap-2">
                             <p className="text-gray-600 font-medium">Status:</p>
                             <p className="col-span-2 text-gray-800">
-                                <span className={`py-1 px-2 rounded-md font-medium ${
-                                    modelInfo.status === 'active' ? 'bg-green-100 text-green-800' : 'bg-yellow-100 text-yellow-800'
-                                }`}>
+                                <span className={`py-1 px-2 rounded-md font-medium ${modelInfo.status === 'active' ? 'bg-green-100 text-green-800' : 'bg-yellow-100 text-yellow-800'
+                                    }`}>
                                     {modelInfo.status}
                                 </span>
                             </p>
@@ -101,8 +125,8 @@ export default function Model_Info() {
                         </div>
                     </div>
                 </motion.div>
-            ) : (
-                <motion.div 
+            ) : (isSubmitting ?
+                <motion.div
                     className="bg-white rounded-lg shadow-md p-6 flex justify-center items-center min-h-[200px]"
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
@@ -114,6 +138,25 @@ export default function Model_Info() {
                         </svg>
                         <p className="text-gray-500 font-medium">Loading model information...</p>
                     </div>
+                </motion.div>
+                :
+
+                <motion.div
+                    className="bg-white rounded-lg shadow-md p-6 flex flex-col justify-center items-center min-h-[200px]"
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                >
+                    <p className="text-gray-500 font-medium mb-4">No model information available. Please submit an input.</p>
+                    <Link to="/">
+                        <motion.button
+                            className="w-full bg-gray-100 hover:bg-gray-200 text-gray-700 py-3 px-4 rounded-lg font-medium transition duration-200 flex items-center justify-center gap-2"
+                            whileHover={{ scale: 1.03 }}
+                            whileTap={{ scale: 0.97 }}
+                            type="button"
+                        >
+                            Get Back
+                        </motion.button>
+                    </Link>
                 </motion.div>
             )}
         </div>
